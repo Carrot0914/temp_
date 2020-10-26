@@ -1,0 +1,43 @@
+# to do
+web-1 종강ㅇ
+web-2 스크립트 변수 ㅇ
+보안설정 set ㅇ
+#(PDF파일로만 내보내기 (폰트정보 삭제) 
+영업비밀관련성 문서 문구.)
+node.js 웹서버해보기 ㅇ
+print ㅇ
+nhn 코딩 컨벤션 이해하고 따라하기 naming o
+nhn 코딩 컨벤션 이해하고 따라하기 html ㅇ
+nhn 코딩 컨벤션 이해하고 따라하기 css 4
+#css 관련 강의 듣고 시작 
+
+node.js 강의 ㅇ
+
+node npm [ex db패키지] ㅇ
+
+node js express 프레임워크 x
+
+apache config index 경로수정 해보기 x , node pm2
+
+#vs 자동 들여쓰기관련 컨벤션질문  x
+#vs 현재보는 파일 디렉토리로 이동 x
+#apache 삭제  x
+몽구스&몽고db x
+
+#tool & set                                      
+tool: vs: 2019 visual studio community 
+% text set
+code editor : vs code, 
+sql: 2019 mssql (개발자)체험판
+nodejs lts ver
+%npm
+%...pm2
+C:\Program Files\Microsoft SQL Server
+git: 
+git hub: 
+
+
+#etc 
+
+ui   ::  layout
+verse css frame works 
